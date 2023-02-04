@@ -38,7 +38,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": false
   },
   "expressionLanguage": "CSharp",
   "entryPoints": [
